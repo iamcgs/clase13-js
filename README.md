@@ -1,1 +1,1 @@
-# clase13-js
+Practice from JavaScript course at https://courseit.io/
